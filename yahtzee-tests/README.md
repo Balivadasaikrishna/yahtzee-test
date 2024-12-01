@@ -1,4 +1,3 @@
-# rest-assured-example
 1. This repository contains tests for service called "Yahtzee". Tests are developed using Java programming language, Rest Assured, TestnNG framework
 2. Tests are available in YahtzeeTests.java class
 
